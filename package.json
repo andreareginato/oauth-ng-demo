@@ -1,7 +1,11 @@
 {
   "name": "newproject",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "gzippo": "~0.2.0",
+    "express": "~4.3.0",
+    "grunt-contrib-compass": "~0.8.0"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-autoprefixer": "~0.4.0",
