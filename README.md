@@ -1,4 +1,4 @@
-# AngularJS demo source code for oauth-ng
+# AngularJS demo for oauth-ng
 
 AngularJS demo source code for [oauth-ng](http://andreareginato.github.io/oauth-ng/)
 
